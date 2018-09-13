@@ -1,3 +1,11 @@
+/*
+Anthony Ronca
+Android Mobile Development
+Deadline Sept. 15
+4 hours over three days (including upload) (9/8 - 9/11)
+*/
+
+
 package com.example.anthony.anthonyroncacandidate; //Hi CodePath!
 
 import android.support.v7.app.AppCompatActivity;
